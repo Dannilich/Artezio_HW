@@ -1,0 +1,1 @@
+print(dict( {x:x*x for x in range( 1, 1+ int( input("input range of squres: ") ) ) }))
